@@ -23,6 +23,8 @@
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7c4dff)
   ![](https://img.shields.io/badge/Style-Material_UI-informational?style=flat&logo=mui&logoColor=white&color=7c4dff)
   ![](https://img.shields.io/badge/Platform-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=7c4dff)
+  ![](https://img.shields.io/badge/IoT-Home_Assistant-informational?style=flat&logo=home-assistant&logoColor=white&color=7c4dff)
+  ![](https://img.shields.io/badge/Container-Traefik-informational?style=flat&logo=traefik&logoColor=white&color=7c4dff)
 
 </div>
 
@@ -30,37 +32,61 @@
 
 <div align="center">
   
-  ### 🌟 Featured Projects I Follow & Recommend
-  
+  ## 🌟 Top Projects I Follow & Recommend
+
+  ### 🏠 Smart Home & IoT
+  <a href="https://github.com/home-assistant/home-assistant.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=home-assistant.io&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/Koenkk/zigbee2mqtt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Koenkk&repo=zigbee2mqtt&theme=material-palenight" />
+  </a>
+
+  ### 🖥️ Server & Infrastructure
   <a href="https://github.com/tteck/Proxmox">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tteck&repo=Proxmox&theme=material-palenight" />
   </a>
+  <a href="https://github.com/traefik/traefik">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=traefik&repo=traefik&theme=material-palenight" />
+  </a>
+  
+  ### 📊 Monitoring & Management
+  <a href="https://github.com/louislam/uptime-kuma">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louislam&repo=uptime-kuma&theme=material-palenight" />
+  </a>
+
+  ### 📸 Media & Document Management
   <a href="https://github.com/immich-app/immich">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=material-palenight" />
   </a>
+  <a href="https://github.com/paperless-ngx/paperless-ngx">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paperless-ngx&repo=paperless-ngx&theme=material-palenight" />
+  </a>
 
-  ### 📝 About the Featured Projects
+  ### 🛠️ Utilities & Tools
+  <a href="https://github.com/Stirling-Tools/Stirling-PDF">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stirling-Tools&repo=Stirling-PDF&theme=material-palenight" />
+  </a>
+  <a href="https://github.com/mealie-recipes/mealie">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mealie-recipes&repo=mealie&theme=material-palenight" />
+  </a>
 
-  - **[Proxmox VE Helper-Scripts](https://github.com/tteck/Proxmox)**: A comprehensive collection of scripts to simplify Proxmox VE setup and management. Perfect for home lab enthusiasts and professionals.
-  
-  - **[Immich](https://github.com/immich-app/immich)**: A high-performance, self-hosted photo and video backup solution directly from your mobile device. A great alternative to Google Photos.
+  ### 📝 About These Projects
 
-</div>
-
----
-
-<div align="center">
-  
-  ### 📫 How to reach me:
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white&color=0077B5)](YOUR_LINKEDIN_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=flat&logo=google-chrome&logoColor=white&color=7c4dff)](YOUR_PORTFOLIO_URL)
+  - **[Home Assistant](https://github.com/home-assistant/home-assistant.io)**: Open source home automation platform
+  - **[Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)**: Zigbee to MQTT bridge for IoT devices
+  - **[Proxmox Helper Scripts](https://github.com/tteck/Proxmox)**: Simplify Proxmox VE management
+  - **[Traefik](https://github.com/traefik/traefik)**: Modern HTTP reverse proxy and load balancer
+  - **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**: Self-hosted monitoring tool
+  - **[Immich](https://github.com/immich-app/immich)**: High performance photo/video backup solution
+  - **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**: Document management system
+  - **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)**: Powerful PDF manipulation tools
+  - **[Mealie](https://github.com/mealie-recipes/mealie)**: Recipe management and meal planning
 
 </div>
 
 <!--
 Quick tips for customization:
-1. Add your LinkedIn and portfolio URLs
-2. Modify the Technologies & Tools section with badges relevant to your stack
-3. The theme is set to material-palenight, but you can change it to any other theme
+1. Modify the Technologies & Tools section with badges relevant to your stack
+2. The theme is set to material-palenight, but you can change it to any other theme
 -->
