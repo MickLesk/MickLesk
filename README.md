@@ -22,6 +22,7 @@
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7c4dff)
   ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7c4dff)
   ![](https://img.shields.io/badge/Style-Material_UI-informational?style=flat&logo=mui&logoColor=white&color=7c4dff)
+  ![](https://img.shields.io/badge/Platform-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=7c4dff)
 
 </div>
 
@@ -29,14 +30,20 @@
 
 <div align="center">
   
-  ### 🌟 Featured Projects
+  ### 🌟 Featured Projects I Follow & Recommend
   
-  <a href="https://github.com/MickLesk/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MickLesk&repo=YOUR_REPO_NAME&theme=material-palenight" />
+  <a href="https://github.com/tteck/Proxmox">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tteck&repo=Proxmox&theme=material-palenight" />
   </a>
-  <a href="https://github.com/MickLesk/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MickLesk&repo=ANOTHER_REPO_NAME&theme=material-palenight" />
+  <a href="https://github.com/immich-app/immich">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=material-palenight" />
   </a>
+
+  ### 📝 About the Featured Projects
+
+  - **[Proxmox VE Helper-Scripts](https://github.com/tteck/Proxmox)**: A comprehensive collection of scripts to simplify Proxmox VE setup and management. Perfect for home lab enthusiasts and professionals.
+  
+  - **[Immich](https://github.com/immich-app/immich)**: A high-performance, self-hosted photo and video backup solution directly from your mobile device. A great alternative to Google Photos.
 
 </div>
 
@@ -53,8 +60,7 @@
 
 <!--
 Quick tips for customization:
-1. Replace YOUR_REPO_NAME and ANOTHER_REPO_NAME with actual repository names you want to feature
-2. Add your LinkedIn and portfolio URLs
-3. Modify the Technologies & Tools section with badges relevant to your stack
-4. The theme is set to material-palenight, but you can change it to any other theme from the GitHub README Stats options
+1. Add your LinkedIn and portfolio URLs
+2. Modify the Technologies & Tools section with badges relevant to your stack
+3. The theme is set to material-palenight, but you can change it to any other theme
 -->
