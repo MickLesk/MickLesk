@@ -71,14 +71,14 @@
 
   ### 📝 About These Projects
 
-   **[Home Assistant](https://github.com/home-assistant/home-assistant.io)**: Open source home automation platform
-   **[Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)**: Zigbee to MQTT bridge for IoT devices
-   **[Proxmox Helper Scripts](https://github.com/tteck/Proxmox)**: Simplify Proxmox VE management
-   **[Traefik](https://github.com/traefik/traefik)**: Modern HTTP reverse proxy and load balancer
-   **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**: Self-hosted monitoring tool
-   **[Immich](https://github.com/immich-app/immich)**: High performance photo/video backup solution
-   **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**: Document management system
-   **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)**: Powerful PDF manipulation tools
-   **[Mealie](https://github.com/mealie-recipes/mealie)**: Recipe management and meal planning
+   **[Home Assistant](https://github.com/home-assistant/home-assistant.io)**: Open source home automation platform</br>
+   **[Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)**: Zigbee to MQTT bridge for IoT devices</br>
+   **[Proxmox Helper Scripts](https://github.com/tteck/Proxmox)**: Simplify Proxmox VE management</br>
+   **[Traefik](https://github.com/traefik/traefik)**: Modern HTTP reverse proxy and load balancer</br>
+   **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**: Self-hosted monitoring tool</br>
+   **[Immich](https://github.com/immich-app/immich)**: High performance photo/video backup solution</br>
+   **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**: Document management system</br>
+   **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)**: Powerful PDF manipulation tools</br>
+   **[Mealie](https://github.com/mealie-recipes/mealie)**: Recipe management and meal planning</br>
 
 </div>
