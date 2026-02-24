@@ -1,7 +1,7 @@
 name: Update README cards
 on:
   schedule:
-    - cron: "0 3 * * *" 
+    - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -12,18 +12,20 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
+          token: ${{ secrets.GH_PAT }}
+          options: username=MickLesk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
           path: profile-stats.svg
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          token: ${{ secrets.GH_PAT }}
+          options: username=MickLesk&layout=compact&theme=tokyonight
           path: profile-langs.svg
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add *.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README cards with PAT" || exit 0
           git push
