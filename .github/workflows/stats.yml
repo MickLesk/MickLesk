@@ -13,7 +13,7 @@ jobs:
         with:
           card: stats
           token: ${{ secrets.GH_PAT }}
-          options: username=MickLesk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+          options: username=MickLesk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true
           path: profile-stats.svg
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
