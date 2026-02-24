@@ -1,84 +1,51 @@
-<h1 align="center">Hi 👋, I'm MickLesk</h1>
-
 <div align="center">
-  
-  ## 💡 About Me
-  
-   **Maintainer** of the [Proxmox Helper Scripts](https://github.com/community-scripts/ProxmoxVE), continuing the legacy of tteck </br>
-   **Founder** of [community-scripts](https://github.com/community-scripts), dedicated to further building Proxmox scripts </br>
-   **Support us** on [Ko-Fi](https://ko-fi.com/community_scripts) to help fund the development of these open-source tools</br>
+  <h1>Hi 👋, I'm MickLesk</h1>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Maintainer+of+Proxmox+Helper+Scripts;Founder+of+community-scripts;Continuing+the+legacy+of+tteck&center=true&width=500&height=45&color=7c4dff" alt="Typing SVG" />
 
+  <p><strong>Leading the way in Proxmox Virtualization & Home Automation.</strong></p>
+
+  <a href="https://ko-fi.com/community_scripts">
+    <img src="https://img.shields.io/badge/Support_the_Project-Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-Fi" />
+  </a>
 </div>
 
 ---
 
+### 🚀 Top Project
 <div align="center">
-  
-  ## 🔧 Technologies & Tools
-  
-  ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7c4dff)
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7c4dff)
-  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7c4dff)
-  ![](https://img.shields.io/badge/Style-Material_UI-informational?style=flat&logo=mui&logoColor=white&color=7c4dff)
-  ![](https://img.shields.io/badge/Platform-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=7c4dff)
-  ![](https://img.shields.io/badge/IoT-Home_Assistant-informational?style=flat&logo=home-assistant&logoColor=white&color=7c4dff)
-  ![](https://img.shields.io/badge/Container-Traefik-informational?style=flat&logo=traefik&logoColor=white&color=7c4dff)
-
-</div>
-
----
-
-<div align="center">
-  
-  ## 🌟 Top Projects I Follow & Recommend
-
-  ### 🏠 Smart Home & IoT
-  <a href="https://github.com/home-assistant/home-assistant.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=home-assistant&repo=home-assistant.io&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/Koenkk/zigbee2mqtt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Koenkk&repo=zigbee2mqtt&theme=material-palenight" />
-  </a>
-
-  ### 🖥️ Server & Infrastructure
   <a href="https://github.com/community-scripts/ProxmoxVE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=community-scripts&repo=ProxmoxVE&theme=material-palenight" />
+    <img src="./proxmox-pin.svg" width="400" alt="ProxmoxVE" />
   </a>
-  <a href="https://github.com/traefik/traefik">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=traefik&repo=traefik&theme=material-palenight" />
-  </a>
-  
-  ### 📊 Monitoring & Management
-  <a href="https://github.com/louislam/uptime-kuma">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louislam&repo=uptime-kuma&theme=material-palenight" />
-  </a>
-
-  ### 📸 Media & Document Management
-  <a href="https://github.com/immich-app/immich">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=immich-app&repo=immich&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/paperless-ngx/paperless-ngx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paperless-ngx&repo=paperless-ngx&theme=material-palenight" />
-  </a>
-
-  ### 🛠️ Utilities & Tools
-  <a href="https://github.com/Stirling-Tools/Stirling-PDF">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stirling-Tools&repo=Stirling-PDF&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/mealie-recipes/mealie">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mealie-recipes&repo=mealie&theme=material-palenight" />
-  </a>
-
-  ### 📝 About These Projects
-
-   **[Home Assistant](https://github.com/home-assistant/home-assistant.io)**: Open source home automation platform</br>
-   **[Zigbee2MQTT](https://github.com/Koenkk/zigbee2mqtt)**: Zigbee to MQTT bridge for IoT devices</br>
-   **[Proxmox Helper Scripts](https://github.com/tteck/Proxmox)**: Simplify Proxmox VE management</br>
-   **[Traefik](https://github.com/traefik/traefik)**: Modern HTTP reverse proxy and load balancer</br>
-   **[Uptime Kuma](https://github.com/louislam/uptime-kuma)**: Self-hosted monitoring tool</br>
-   **[Immich](https://github.com/immich-app/immich)**: High performance photo/video backup solution</br>
-   **[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)**: Document management system</br>
-   **[Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)**: Powerful PDF manipulation tools</br>
-   **[Mealie](https://github.com/mealie-recipes/mealie)**: Recipe management and meal planning</br>
-
 </div>
+
+---
+
+### 💡 About Me
+* 🛠️ **Maintainer** of the [Proxmox Helper Scripts](https://github.com/community-scripts/ProxmoxVE)
+* 🚀 **Founder** of [community-scripts](https://github.com/community-scripts)
+* 🏠 **Passion** – Home Lab infrastructures and open-source ecosystems.
+
+---
+
+### 🔧 Tech Stack
+**Languages:** `Shell/Bash` • `Go` • `Rust` • `TypeScript` • `Svelte`
+**Core:** `Proxmox VE` • `Home Assistant` • `Docker` • `Linux` • `GitHub Actions`
+
+---
+
+### 🌟 Recommendations
+`HomeAssistant` • `Zigbee2mqtt` • `ProxmoxVE` • `ByteStash` • `Checkmate` • `DrawIO` • `Immich` • `Mealie` • `Navidrome`
+
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="./profile-stats.svg" width="48%" alt="Stats" />
+  <img src="./profile-langs.svg" width="45%" alt="Langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MickLesk&theme=tokyonight&fire=7c4dff" alt="Streak" />
+</div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MickLesk&color=7c4dff&style=flat-square&label=PROFILE+VIEWS" /></p>
