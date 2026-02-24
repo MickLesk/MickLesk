@@ -14,38 +14,61 @@
 ### 🚀 Top Project
 <div align="center">
   <a href="https://github.com/community-scripts/ProxmoxVE">
-    <img src="./proxmox-pin.svg" width="400" alt="ProxmoxVE" />
+    <img src="./proxmox-pin.svg" height="150" alt="ProxmoxVE" />
   </a>
 </div>
 
 ---
 
-### 💡 About Me
-* 🛠️ **Maintainer** of the [Proxmox Helper Scripts](https://github.com/community-scripts/ProxmoxVE)
-* 🚀 **Founder** of [community-scripts](https://github.com/community-scripts)
-* 🏠 **Passion** – Home Lab infrastructures and open-source ecosystems.
+### 💡 About Me & Tech Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Role & Mission</strong>
+      <ul>
+        <li>🛠️ <b>Maintainer</b>: <a href="https://github.com/community-scripts/ProxmoxVE">Proxmox Helper Scripts</a></li>
+        <li>🚀 <b>Founder</b>: <a href="https://github.com/community-scripts">community-scripts</a></li>
+        <li>🏠 <b>Passion</b>: Infrastructure & Open Source</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Tech Stack</strong>
+      <ul>
+        <li>💻 <b>Languages</b>: Shell, Go, Rust, TS, Svelte</li>
+        <li>🐳 <b>Core</b>: Proxmox, Docker, Home Assistant</li>
+        <li>🐧 <b>OS</b>: Linux (Debian/Ubuntu)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔧 Tech Stack
-**Languages:** `Shell/Bash` • `Go` • `Rust` • `TypeScript` • `Svelte`
-**Core:** `Proxmox VE` • `Home Assistant` • `Docker` • `Linux` • `GitHub Actions`
+### 🌟 Essential Tools & Recommendations
+*Curated selection of tools I use and recommend:*
 
----
-
-### 🌟 Recommendations
-`HomeAssistant` • `Zigbee2mqtt` • `ProxmoxVE` • `ByteStash` • `Checkmate` • `DrawIO` • `Immich` • `Mealie` • `Navidrome`
+| | | |
+| :--- | :--- | :--- |
+| 🏠 **HomeAssistant** | ⚡ **Zigbee2mqtt** | 🖥️ **ProxmoxVE** |
+| 📦 **ByteStash** | 🛡️ **Checkmate** | 🎨 **Draw.io** |
+| 📸 **Immich** | 🍴 **Mealie** | 🎵 **Navidrome** |
 
 ---
 
 ### 📊 GitHub Activity
+
 <div align="center">
-  <img src="./profile-stats.svg" width="48%" alt="Stats" />
-  <img src="./profile-langs.svg" width="45%" alt="Langs" />
+  <img height="165" src="./profile-stats.svg" alt="Stats" />
+  <img height="165" src="./profile-langs.svg" alt="Langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MickLesk&theme=tokyonight&fire=7c4dff" alt="Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=MickLesk&theme=tokyonight&fire=7c4dff" alt="Streak" />
 </div>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MickLesk&color=7c4dff&style=flat-square&label=PROFILE+VIEWS" /></p>
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MickLesk&color=7c4dff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</div>
