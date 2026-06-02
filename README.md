@@ -43,6 +43,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ### 🌟 Essential Tools & Recommendations
