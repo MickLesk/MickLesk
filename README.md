@@ -47,12 +47,26 @@
 
 ### 🌟 Essential Tools & Recommendations
 *Curated selection of tools I use and recommend:*
+<p align="center"><i>Curated selection of tools I use and recommend:</i></p>
+
 <div align="center">
-| | | |
-| :--- | :--- | :--- |
-| 🏠 **HomeAssistant** | ⚡ **Zigbee2mqtt** | 🖥️ **ProxmoxVE** |
-| 📦 **ByteStash** | 🛡️ **Checkmate** | 🎨 **Draw.io** |
-| 📸 **Immich** | 🍴 **Mealie** | 🎵 **Navidrome** |
+  <table width="100%">
+    <tr>
+      <td width="33.3%" align="center">🏠 <b>HomeAssistant</b></td>
+      <td width="33.3%" align="center">⚡ <b>Zigbee2mqtt</b></td>
+      <td width="33.3%" align="center">🖥️ <b>ProxmoxVE</b></td>
+    </tr>
+    <tr>
+      <td align="center">📦 <b>ByteStash</b></td>
+      <td align="center">🛡️ <b>Checkmate</b></td>
+      <td align="center">🎨 <b>Draw.io</b></td>
+    </tr>
+    <tr>
+      <td align="center">📸 <b>Immich</b></td>
+      <td align="center">🍴 <b>Mealie</b></td>
+      <td align="center">🎵 <b>Navidrome</b></td>
+    </tr>
+  </table>
 </div>
 ---
 
