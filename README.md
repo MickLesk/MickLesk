@@ -47,8 +47,6 @@
 
 ### 🌟 Essential Tools & Recommendations
 *Curated selection of tools I use and recommend:*
-<p align="center"><i>Curated selection of tools I use and recommend:</i></p>
-
 <div align="center">
   <table width="100%">
     <tr>
@@ -68,6 +66,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ### 📊 GitHub Activity
