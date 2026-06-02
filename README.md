@@ -60,7 +60,7 @@
 
 <div align="center">
   <img height="165" src="./profile-stats.svg" alt="Stats" />
-  <img height="165" src="./profile-langs.svg" alt="Langs" />
+  <!--img height="165" src="./profile-langs.svg" alt="Langs" /-->
 </div>
 
 <div align="center">
