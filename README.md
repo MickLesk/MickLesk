@@ -21,39 +21,39 @@
 ---
 
 ### 💡 About Me & Tech Stack
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Role & Mission</strong>
-      <ul>
-        <li>🛠️ <b>Maintainer</b>: <a href="https://github.com/community-scripts/ProxmoxVE">Proxmox Helper Scripts</a></li>
-        <li>🚀 <b>Founder</b>: <a href="https://github.com/community-scripts">community-scripts</a></li>
-        <li>🏠 <b>Passion</b>: Infrastructure & Open Source</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Tech Stack</strong>
-      <ul>
-        <li>💻 <b>Languages</b>: Shell, Go, Rust, TS, Svelte</li>
-        <li>🐳 <b>Core</b>: Proxmox, Docker, Home Assistant</li>
-        <li>🐧 <b>OS</b>: Linux (Debian/Ubuntu)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Role & Mission</strong>
+        <ul>
+          <li>🛠️ <b>Maintainer</b>: <a href="https://github.com/community-scripts/ProxmoxVE">Proxmox Helper Scripts</a></li>
+          <li>🚀 <b>Founder</b>: <a href="https://github.com/community-scripts">community-scripts</a></li>
+          <li>🏠 <b>Passion</b>: Infrastructure & Open Source</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <strong>Tech Stack</strong>
+        <ul>
+          <li>💻 <b>Languages</b>: Shell, Go, Rust, TS, Svelte</li>
+          <li>🐳 <b>Core</b>: Proxmox, Docker, Home Assistant</li>
+          <li>🐧 <b>OS</b>: Linux (Debian/Ubuntu)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### 🌟 Essential Tools & Recommendations
 *Curated selection of tools I use and recommend:*
-
-| | | |
-| :--- | :--- | :--- |
-| 🏠 **HomeAssistant** | ⚡ **Zigbee2mqtt** | 🖥️ **ProxmoxVE** |
-| 📦 **ByteStash** | 🛡️ **Checkmate** | 🎨 **Draw.io** |
-| 📸 **Immich** | 🍴 **Mealie** | 🎵 **Navidrome** |
-
+<div align="center">
+  | | | |
+  | :--- | :--- | :--- |
+  | 🏠 **HomeAssistant** | ⚡ **Zigbee2mqtt** | 🖥️ **ProxmoxVE** |
+  | 📦 **ByteStash** | 🛡️ **Checkmate** | 🎨 **Draw.io** |
+  | 📸 **Immich** | 🍴 **Mealie** | 🎵 **Navidrome** |
+</div>
 ---
 
 ### 📊 GitHub Activity
