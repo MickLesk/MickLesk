@@ -48,11 +48,11 @@
 ### 🌟 Essential Tools & Recommendations
 *Curated selection of tools I use and recommend:*
 <div align="center">
-  | | | |
-  | :--- | :--- | :--- |
-  | 🏠 **HomeAssistant** | ⚡ **Zigbee2mqtt** | 🖥️ **ProxmoxVE** |
-  | 📦 **ByteStash** | 🛡️ **Checkmate** | 🎨 **Draw.io** |
-  | 📸 **Immich** | 🍴 **Mealie** | 🎵 **Navidrome** |
+| | | |
+| :--- | :--- | :--- |
+| 🏠 **HomeAssistant** | ⚡ **Zigbee2mqtt** | 🖥️ **ProxmoxVE** |
+| 📦 **ByteStash** | 🛡️ **Checkmate** | 🎨 **Draw.io** |
+| 📸 **Immich** | 🍴 **Mealie** | 🎵 **Navidrome** |
 </div>
 ---
 
