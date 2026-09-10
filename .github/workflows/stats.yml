@@ -20,14 +20,7 @@ jobs:
         with:
           card: stats
           token: ${{ secrets.GH_PAT }}
-          options: >-
-            username=MickLesk
-            &show_icons=true
-            &theme=tokyonight
-            &count_private=true
-            &include_all_commits=true
-            &hide=stars
-            &show=reviews,prs_merged,prs_merged_percentage
+          options: '{"username":"MickLesk","show_icons":true,"theme":"tokyonight","count_private":true,"include_all_commits":true,"hide":"stars","show":"reviews,prs_merged,prs_merged_percentage"}'
           path: profile-stats.svg
 
       - name: Generate languages card
@@ -35,11 +28,7 @@ jobs:
         with:
           card: top-langs
           token: ${{ secrets.GH_PAT }}
-          options: >-
-            username=MickLesk
-            &layout=compact
-            &theme=tokyonight
-            &langs_count=8
+          options: '{"username":"MickLesk","layout":"compact","theme":"tokyonight","langs_count":8}'
           path: profile-langs.svg
 
       - name: Generate ProxmoxVE card
@@ -47,11 +36,7 @@ jobs:
         with:
           card: pin
           token: ${{ secrets.GH_PAT }}
-          options: >-
-            username=community-scripts
-            &repo=ProxmoxVE
-            &theme=tokyonight
-            &show_owner=true
+          options: '{"username":"community-scripts","repo":"ProxmoxVE","theme":"tokyonight","show_owner":true}'
           path: proxmox-pin.svg
 
       - name: Commit cards
