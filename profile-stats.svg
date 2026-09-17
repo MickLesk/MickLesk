@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CanbiZ (MickLesk)&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Commits  : 59217, Total PRs: 1726, Total PRs Merged: 1635, Merged PRs Percentage: 94.73, Total PRs Reviewed: 1267, Total Issues: 480, Contributed to (last year): 47</desc>
+        <desc id="descId">Total Commits  : 59227, Total PRs: 1729, Total PRs Merged: 1644, Merged PRs Percentage: 95.08, Total PRs Reviewed: 1269, Total Issues: 481, Contributed to (last year): 46</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.48491323232872;
+        stroke-dashoffset: 74.48491228126657;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.73 %</text>
+      >95.08 %</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -244,7 +244,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >480</text>
+      >481</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -259,7 +259,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >47</text>
+      >46</text>
     </g>
   </g>
     </svg>
